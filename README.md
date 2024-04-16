@@ -1,1 +1,1 @@
-# GameJs
+# El juego se basa en interaccionar con las diferentes opciones, pudiendo comprar vida o armas para derrotar a las diferentes bestias que se encuentran.
